@@ -3,3 +3,6 @@
 
 
 this some utils that help me in my research like processin data, visualization, etc.
+
+
+this the secoond testing for magit in emacs
